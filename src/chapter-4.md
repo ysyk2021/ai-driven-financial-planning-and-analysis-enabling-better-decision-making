@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Investment Decisions with AI
-=================================================
 
 Investment decisions are critical components of financial planning and analysis. AI technology has the potential to transform investment decision-making by providing advanced analytics, predictive modeling, and automation capabilities. In this chapter, we will discuss how AI can enhance investment decisions in financial planning and analysis.
 

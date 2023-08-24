@@ -1,5 +1,3 @@
-Understanding the Role of AI in Financial Planning and Analysis
-=====================================================================================================================================
 
 In this chapter, we will introduce the concept of AI-driven financial planning and analysis and discuss the role of AI technology in financial planning and analysis.
 

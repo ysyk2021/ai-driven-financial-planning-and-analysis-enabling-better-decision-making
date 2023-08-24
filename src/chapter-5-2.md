@@ -1,5 +1,3 @@
-Personalized Risk Mitigation Recommendations and Interventions using AI
-====================================================================================================================================
 
 Risk assessment and management are crucial components of financial planning and analysis. In this chapter, we will discuss how AI technology can improve risk assessment and management by providing personalized risk mitigation recommendations and interventions.
 

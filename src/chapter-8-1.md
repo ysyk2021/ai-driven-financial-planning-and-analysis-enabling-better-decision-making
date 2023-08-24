@@ -1,5 +1,3 @@
-Emerging Trends in AI for Financial Planning and Analysis
-===================================================================================================================================================
 
 In this chapter, we will discuss the emerging trends in AI for financial planning and analysis and how they are likely to shape the future of financial management practices.
 

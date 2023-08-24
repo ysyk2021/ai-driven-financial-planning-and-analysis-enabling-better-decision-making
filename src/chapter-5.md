@@ -1,5 +1,3 @@
-Chapter 5: Improving Risk Assessment and Management with AI
-===========================================================
 
 Risk assessment and management are critical components of financial planning and analysis. AI technology has the potential to transform risk assessment and management by providing advanced analytics, predictive modeling, and automation capabilities. In this chapter, we will discuss how AI can improve risk assessment and management in financial planning and analysis.
 

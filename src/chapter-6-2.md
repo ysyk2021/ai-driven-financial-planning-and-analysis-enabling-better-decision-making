@@ -1,5 +1,3 @@
-Automated Data Collection and Visualization using AI
-========================================================================================================================
 
 In this chapter, we will explore how AI technology can streamline performance analysis and reporting through automated data collection and visualization. We will discuss the benefits of using AI for data collection and visualization, as well as some of the key considerations when implementing these technologies.
 
